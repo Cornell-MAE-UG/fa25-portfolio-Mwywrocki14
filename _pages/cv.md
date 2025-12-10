@@ -5,10 +5,10 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "Michael Wywrocki Resume (Summer 2026).docx-4.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [mvw27@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +312 468 1911
 
 ---
 
@@ -41,30 +41,18 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
   - Key Achievement 1  
   - Key Achievement 2  
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- **[Jessup Manufacturing Company] - Engineering Intern**  
+  [May, 2025] - [August, 2025]  
+  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Varsity Mens Swimming and Diving for Cornell University
+
 
 ---
 
