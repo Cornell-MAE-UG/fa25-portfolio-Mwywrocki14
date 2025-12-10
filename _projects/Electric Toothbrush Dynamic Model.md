@@ -6,4 +6,4 @@ technologies: [MATLAB]
 image: 
 ---
 
-[View the final report!]({{ "/MAE3260_final_groupwork_FinalReport-5.pdf" | relative_url }})
+[View our final report!](MAE3260_final_groupwork_FinalReport-5.pdf)
