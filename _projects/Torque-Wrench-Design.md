@@ -2,6 +2,7 @@
 layout: project
 title: Torque Wrench Final Project MAE 3270
 description: Portfolio Submission 
+technologies: [MATLAB, Autodesk Fusion, ANSYS]
 image: 
 ---
 
