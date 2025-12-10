@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "Michael Wywrocki Resume (Summer 2026).docx-4.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Michael Wywrocki Resume (Summer 2026).docx-4.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [mvw27@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +312 468 1911
